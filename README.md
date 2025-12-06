@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **shakhawathasan51@gmail.com** For Collaboration/Project or
 
 
 
- [![Shakhawat Hasan Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/shakhawat.hasan.92) [![Shakhawat Hasan LinkedIn](https://img.shields.io/badge/LinkedIn-Imran%20Alam-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakhawat-hasan)
+ [![Shakhawat Hasan Facebook](https://img.shields.io/badge/Facebook-Shakhawat%20Hasan-blue?logo=facebook&logoColor=white)](https://www.facebook.com/shakhawat.hasan.92) [![Shakhawat Hasan LinkedIn](https://img.shields.io/badge/LinkedIn-Shakhawat%20Hasan-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakhawat-hasan)
 
 
 ## 💸 Support My Work 🤝	
