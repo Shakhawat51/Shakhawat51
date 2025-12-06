@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **shakhawathasan51@gmail.com** For Collaboration/Project or
 ## 🔗 I am a Software Engineer. 😊😊
 
 
-
+## 🌐 Socials:
  [![Shakhawat Hasan Facebook](https://img.shields.io/badge/Facebook-Shakhawat%20Hasan-blue?logo=facebook&logoColor=white)](https://www.facebook.com/shakhawat.hasan.92) [![Shakhawat Hasan LinkedIn](https://img.shields.io/badge/LinkedIn-Shakhawat%20Hasan-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakhawat-hasan)
 
 
@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **shakhawathasan51@gmail.com** For Collaboration/Project or
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shakhawat51&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 📊 GitHub Stats:
@@ -45,8 +45,7 @@ Email Me 👉 ✉️ **shakhawathasan51@gmail.com** For Collaboration/Project or
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
