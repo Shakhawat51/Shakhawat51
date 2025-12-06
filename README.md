@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Shakhawat Hasan Sohel
 **Asst. Software Engineer | PGD-IT (JU) | Digital Marketing Skills | Volunteer **
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **shakhawathasan51@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🔗 I am a Software Engineer. 😊😊
 
 
 
- [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag) [![Imran Alam LinkedIn](https://img.shields.io/badge/LinkedIn-Imran%20Alam-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakhawat-hasan)
+ [![Shakhawat Hasan Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/shakhawat.hasan.92) [![Shakhawat Hasan LinkedIn](https://img.shields.io/badge/LinkedIn-Imran%20Alam-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakhawat-hasan)
 
 
 ## 💸 Support My Work 🤝	
