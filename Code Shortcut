@@ -1,0 +1,22 @@
+--Use this case if you want to go to the page condition wise--
+--Customize with your own code--
+
+CASE
+           WHEN PRC_REQ_TYPE(column_name) = 2
+           THEN
+                  '<a href='
+               || APEX_PAGE.GET_URL (p_page     => '5020', ----(go tp page number)
+                                     p_items    => 'P5020_ID', ----(go to the page item)
+                                     p_values   => V.ORDER_ID) -----(link column name)
+               || ' target="_blank" >
+                      <span class="t-Button t-Button--small t-Button--warning " aria-hidden="true">With out cs</span></a>'
+           ELSE
+                  '<a href='
+               || APEX_PAGE.GET_URL (p_page     => '4008',
+                                     p_items    => 'P4008_ID',
+                                     p_values   => V.ORDER_ID)
+               || ' target="_blank" >
+                      <span class="t-Button t-Button--small t-Button--warning " aria-hidden="true"> CS</span></a>'
+       END                                                  CS_PO---(column name alias)
+
+-------------------------------------------------------------------------------------------------------------------------
